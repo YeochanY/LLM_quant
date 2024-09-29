@@ -1,2 +1,3 @@
 # LLM_quant
-Research on the application of LLMs in the quant domain
+## Purpose
+Utilize multi-agent LLM models to analyze the sentiment of financial reports, aiding in investigation decisions
